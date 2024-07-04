@@ -43,3 +43,37 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.opportunity {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+
+.opportunity h3 {
+    color: #333;
+    margin-top: 0;
+}
+
+.opportunity p {
+    color: #666;
+}
+
+/* Estilos para oportunidades geradas pela cidade */
+
+.opportunity {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+
+.opportunity h3 {
+    color: #333;
+    margin-top: 0;
+}
+
+.opportunity p {
+    color: #666;
+}
