@@ -27,15 +27,15 @@
     background-color: #f0f0f0; /* Fundo cinza claro para o conteúdo */
 }
 
-section {
+.section {
     margin-bottom: 30px;
 }
 
-section h2 {
+.section h2 {
     color: #333;
 }
 
-section p {
+.section p {
     color: #666;
 }
 
@@ -62,7 +62,7 @@ section p {
     margin-right: 10px;
 }
 
-footer {
+.footer {
     background-color: #4CAF50; /* Verde */
     color: #fff;
     text-align: center;
