@@ -4,9 +4,10 @@
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    
 }
 
-.header{
+.body{
     background-color: #4CAF50;
     color: #fff;
     text-align: center;
